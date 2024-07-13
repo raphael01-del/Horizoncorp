@@ -1,1 +1,1 @@
-# Horizoncorp
+# Horizoncorp une entite qui travail dans le domaine de prestations des services. services offerts : maintenance électrique, maintenance automobile, conception site web, peinture, plomberies, etc. créer en 2022 en date du 13 février. travail en collaboration avec YoungBusiness.
